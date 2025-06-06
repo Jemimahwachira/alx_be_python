@@ -1,3 +1,4 @@
+# Python 3.8 does not support match-case, using if-elif-else instead.
 num1 = float(input("Enter the first number: "))
 num2 = float(input("Enter the second number: "))
 operation = input("Choose the operation (+, -, *, /): ")
